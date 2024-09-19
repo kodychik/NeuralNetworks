@@ -1,0 +1,6 @@
+{
+    "workbench.preferredDarkColorTheme": "Visual Studio Dark",
+    "files.associations": {
+        "neuralnets.h": "c"
+    }
+}
